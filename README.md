@@ -9,12 +9,10 @@ Processing: The app extracts text and chunks it for indexing.
 Ask Questions: Enter a question in the chat box.
 Get Answers: The system retrieves relevant text and responds concisely.
 
-**Dependencies**
+**Technologies Used**
 streamlit (for UI)
 ollama, Phi3 (for LLM inference)
 pdfplumber (for PDF extraction)
-pytest
-langchain (for text processing)
 
 
 Screenshots ::
@@ -29,4 +27,11 @@ Q&A:
 ![Screenshot 2025-03-19 022601](https://github.com/user-attachments/assets/313fc1b9-0be1-4ddb-8188-84f5fe40a2d1)
 
 ![Screenshot 2025-03-19 022731](https://github.com/user-attachments/assets/7eaf69df-4fbd-427f-a143-fbf68044581b)
+
+
+References used:
+Medium Blogpost: https://medium.com/@pandeyarpit88/building-a-pdf-question-answering-system-with-ollama-and-langchain-5e851bdea447
+Analytic Vidya Blog: https://www.analyticsvidhya.com/blog/2023/10/a-step-by-step-guide-to-pdf-chatbots-with-langchain-and-ollama/
+Git Repo: https://github.com/jacoblee93/fully-local-pdf-chatbot
+Reddit thread: https://www.reddit.com/r/ollama/comments/1dyffg8/has_anyone_have_a_good_tutorial_for_a_chatbot/
 
