@@ -1,6 +1,7 @@
 streamlit
 langchain_core
 langchain_community
-Ollama
+langchain_ollama
 pdfplumber
-Microsoft Phi3
+pytest
+langchain
