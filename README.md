@@ -1,7 +1,7 @@
 # HireRight_Hackathon25
 **My submission for HireRight Hackathon 2025**
 
-*This project allows you to upload a PDF and ask questions about its content using Microsoft Phi3 Model via Ollama. The application processes PDFs, extracts text, indexes them, and retrieves relevant context to generate answers.*
+*This project allows us to upload a PDF document and ask questions about its content. This uses Microsoft Phi3 Model and Ollama of LLM inference. The application processes PDFs, extracts text, indexes them, and retrieves relevant context to generate answers.*
 
 How It Works
 Upload a PDF: Use the UI to upload a document.
